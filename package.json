@@ -5,7 +5,6 @@
   "dependencies": {
     "xregexp": "~2.0.0",
     "pegjs": "^0.10.0",
-    "chokidar": "^2.0.3",
     "lodash": "^4.17.5",
     "moment": "^2.21.0"
   },
